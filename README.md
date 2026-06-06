@@ -1,5 +1,7 @@
 ## Привет! 👋
-Я Денис, небольшой программист. Вот все языки и программы, которые я знаю:
+Я Денис, программист, создатель [FromChat](https://github.com/fromchat-messenger/web).
+
+Разбираюсь в:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
